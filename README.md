@@ -28,7 +28,7 @@ java -jar target/airports-search-1.0.jar
 
 ### Как использовать свой CSV-файл
 
-Если вы хотите использовать свой собственный CSV-файл, замените файл `airports.csv` в папке `src/main/resources` на свой файл. Убедитесь, что формат вашего файла CSV соответствует формату файла `airports.csv`.
+Если вы хотите использовать свой собственный CSV-файл, замените файл `airports.csv` в папке `src/main/main.resources` на свой файл. Убедитесь, что формат вашего файла CSV соответствует формату файла `airports.csv`.
 
 В настройках проекта путь к CSV указать так 
 ![Настройки проекта](https://github.com/alexkasuka/AirportSearch/blob/master/idea.jpg)
